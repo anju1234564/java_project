@@ -17,7 +17,7 @@ if(input%input==0 & input%1==0) {
 }else {
   System.out.println("It is not a prime number");
 
-	}sc.close();
+	}
 	
 
 }
